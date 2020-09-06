@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+.vscode/
+package-lock.json
+dist/
+.firebase/
 
 # testing
 /coverage
